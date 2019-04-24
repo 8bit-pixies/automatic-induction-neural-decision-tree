@@ -7,6 +7,18 @@ This repository contains code for "Automatic Induction of Neural Network Decisio
 Preprint: 
 * https://arxiv.org/abs/1811.10735
 
+If you use this code please cite via:
+
+```
+@inproceedings{siu2018automatic,
+  title={Automatic Induction of Neural Network Decision Tree Algorithms},
+  author={Siu, Chapman},
+  booktitle={2019 Computing Conference},
+  year={2019},
+  organization={Springer International Publishing}
+}
+```
+
 Usage
 -----
 
